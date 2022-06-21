@@ -1,6 +1,6 @@
 import React from "react";
 import "../Style/style.css";
-import Form from "./Form";
+;
 
 const Table = ({ tableData }) => {
   return (
